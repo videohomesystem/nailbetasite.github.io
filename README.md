@@ -1,2 +1,2 @@
 # nailbetasite.github.io
-test nail site
+* test nail site
